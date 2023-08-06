@@ -14,3 +14,7 @@ fun calculateTotalPerPerson(
     val bill = calculateTotalTip(totalBill = totalBill, tipPercentage = tipPercentage) + totalBill
     return (bill / splitBy)
 }
+
+fun formatDoubleToString(value: Double): String {
+    return "%.2f".format(value)
+}

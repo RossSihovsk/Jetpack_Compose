@@ -1,4 +1,4 @@
-package com.bawp.jetnote.util
+package com.ross.jetnote.util
 
 import androidx.room.TypeConverter
 import java.util.*

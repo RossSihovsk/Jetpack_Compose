@@ -1,6 +1,6 @@
-package com.bawp.jetnote.data
+package com.ross.jetnote.data
 
-import com.bawp.jetnote.model.Note
+import com.ross.jetnote.model.Note
 
 class NotesDataSource {
     companion object {

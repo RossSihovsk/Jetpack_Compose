@@ -1,4 +1,4 @@
-package com.bawp.jetnote
+package com.ross.jetnote
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

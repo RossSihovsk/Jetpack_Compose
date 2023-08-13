@@ -1,4 +1,4 @@
-package com.bawp.jetnote.model
+package com.ross.jetnote.model
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

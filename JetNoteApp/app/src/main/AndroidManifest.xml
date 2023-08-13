@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bawp.jetnote">
+    package="com.ross.jetnote">
 
     <application
-        android:name=".NoteApplication"
+        android:name="com.ross.jetnote.NoteApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JetNote">
         <activity
-            android:name=".MainActivity"
+            android:name="com.ross.jetnote.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.JetNote.NoActionBar">

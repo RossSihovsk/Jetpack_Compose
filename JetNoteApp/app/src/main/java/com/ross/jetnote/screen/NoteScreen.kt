@@ -1,4 +1,4 @@
-package com.bawp.jetnote.screen
+package com.ross.jetnote.screen
 
 import android.widget.Toast
 import androidx.compose.foundation.clickable
@@ -30,12 +30,12 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.bawp.jetnote.R
-import com.bawp.jetnote.components.NoteButton
-import com.bawp.jetnote.components.NoteInputText
-import com.bawp.jetnote.data.NotesDataSource
-import com.bawp.jetnote.model.Note
-import com.bawp.jetnote.util.formatDate
+import com.ross.jetnote.R
+import com.ross.jetnote.components.NoteButton
+import com.ross.jetnote.components.NoteInputText
+import com.ross.jetnote.data.NotesDataSource
+import com.ross.jetnote.model.Note
+import com.ross.jetnote.util.formatDate
 
 @Composable
 fun NoteScreen(

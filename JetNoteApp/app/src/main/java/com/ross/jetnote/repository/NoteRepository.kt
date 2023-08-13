@@ -1,7 +1,7 @@
-package com.bawp.jetnote.repository
+package com.ross.jetnote.repository
 
-import com.bawp.jetnote.data.NoteDatabaseDao
-import com.bawp.jetnote.model.Note
+import com.ross.jetnote.data.NoteDatabaseDao
+import com.ross.jetnote.model.Note
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.conflate

@@ -1,4 +1,4 @@
-package com.bawp.jetnote.components
+package com.ross.jetnote.components
 
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.text.KeyboardActions

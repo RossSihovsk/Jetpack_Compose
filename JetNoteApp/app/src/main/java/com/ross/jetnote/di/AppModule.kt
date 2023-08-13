@@ -1,9 +1,8 @@
-package com.bawp.jetnote.di
+package com.ross.jetnote.di
 
 import android.content.Context
-import androidx.room.Room
-import com.bawp.jetnote.data.NoteDatabase
-import com.bawp.jetnote.data.NoteDatabaseDao
+import com.ross.jetnote.data.NoteDatabase
+import com.ross.jetnote.data.NoteDatabaseDao
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

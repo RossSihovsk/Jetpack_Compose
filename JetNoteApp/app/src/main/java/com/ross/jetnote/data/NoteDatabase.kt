@@ -1,13 +1,13 @@
-package com.bawp.jetnote.data
+package com.ross.jetnote.data
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
-import com.bawp.jetnote.model.Note
-import com.bawp.jetnote.util.DateConverter
-import com.bawp.jetnote.util.UUIDConverter
+import com.ross.jetnote.model.Note
+import com.ross.jetnote.util.DateConverter
+import com.ross.jetnote.util.UUIDConverter
 
 @Database(entities = [Note::class], version = 1, exportSchema = false)
 @TypeConverters(DateConverter::class, UUIDConverter::class)

@@ -1,4 +1,4 @@
-package com.bawp.jetnote.util
+package com.ross.jetnote.util
 
 import java.text.SimpleDateFormat
 import java.util.*

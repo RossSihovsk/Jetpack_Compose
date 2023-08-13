@@ -1,4 +1,4 @@
-package com.bawp.jetnote.ui.theme
+package com.ross.jetnote.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

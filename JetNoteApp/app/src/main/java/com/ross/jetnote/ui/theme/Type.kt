@@ -1,4 +1,4 @@
-package com.bawp.jetnote.ui.theme
+package com.ross.jetnote.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

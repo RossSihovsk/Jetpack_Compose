@@ -1,7 +1,7 @@
-package com.bawp.jetnote.data
+package com.ross.jetnote.data
 
 import androidx.room.*
-import com.bawp.jetnote.model.Note
+import com.ross.jetnote.model.Note
 import kotlinx.coroutines.flow.Flow
 
 @Dao
